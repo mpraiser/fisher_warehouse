@@ -33,5 +33,5 @@ IF1:
 	I8
 
 EM1:
-	M1
+	M1 storage
 	M2 storage

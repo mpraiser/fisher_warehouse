@@ -1,3 +1,0 @@
-due to the fast speed in main2, we decrease the noise threshold.
-deal with 0 input in storage_cw.
-deal with cw multiple block in storage_cw.
